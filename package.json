@@ -1,0 +1,21 @@
+{
+  "name": "message-board",
+  "version": "1.0.0",
+  "description": "",
+  "main": "API.js",
+  "scripts": {
+    "start": "node API.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body": "^5.1.0",
+    "md5": "^2.2.1",
+    "moment": "^2.15.1",
+    "spellchecker": "^3.3.1",
+    "uuid": "^2.0.3",
+    "word-definition": "^2.1.2"
+  }
+}
